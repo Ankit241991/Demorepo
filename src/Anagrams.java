@@ -3,7 +3,7 @@ import java.util.Arrays;
 import Collection.Array;
 
 public class Anagrams {
-
+// this program is of anagram ,anagram is basically give the same character from both side
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 String str1 = "keep";
