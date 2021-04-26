@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="F:\AnkitPull"/>
+			<item value="F:\AnkitPull\Demorepo"/>
+			<item value="F:\GitDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[groupId].[artifactId]"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

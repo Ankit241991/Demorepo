@@ -1,0 +1,61 @@
+2021-04-25 15:28:36,176 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-25 15:28:46,471 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2021-04-25 15:29:44,830 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FramworkPractice:TestFramwork:0.0.1-SNAPSHOT @ F:\GitDemo\pom.xml.
+2021-04-25 15:29:52,038 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestFramwork/src/main/java
+2021-04-25 15:29:52,039 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestFramwork/src/test/java
+2021-04-25 15:29:52,490 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 16 sec
+2021-04-25 15:29:56,083 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 15:29:56,096 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 15:29:56,098 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\GitDemo\src\main\java\resources
+2021-04-25 15:29:56,103 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 15:29:56,104 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\GitDemo\src\test\resources
+2021-04-25 15:37:53,379 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 15:37:53,380 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 15:37:53,382 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\GitDemo\src\main\java\resources
+2021-04-25 15:37:53,384 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 15:37:53,386 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\GitDemo\src\test\resources
+2021-04-25 16:52:59,972 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FramworkPractice:TestFramwork:0.0.1-SNAPSHOT @ F:\AnkitPull\Demorepo\pom.xml.
+2021-04-25 16:53:01,093 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FramworkPractice.TestFramwork/src/main/java
+2021-04-25 16:53:01,094 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FramworkPractice.TestFramwork/src/test/java
+2021-04-25 16:53:01,301 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-04-25 16:53:02,093 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 16:53:02,104 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 16:53:02,105 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\Demorepo\src\main\java\resources
+2021-04-25 16:53:02,108 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 16:53:02,110 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\Demorepo\src\test\resources
+2021-04-25 16:54:55,587 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-25 16:55:06,114 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2021-04-25 16:56:00,811 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FramworkPractice:TestFramwork:0.0.1-SNAPSHOT @ F:\AnkitPull\pom.xml.
+2021-04-25 16:56:02,893 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestFramwork/src/main/java
+2021-04-25 16:56:02,895 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestFramwork/src/test/java
+2021-04-25 16:56:03,143 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2021-04-25 16:56:05,105 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 16:56:05,115 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 16:56:05,117 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\main\java\resources
+2021-04-25 16:56:05,119 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 16:56:05,121 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\test\resources
+2021-04-25 17:35:41,985 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 17:35:41,987 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:35:41,988 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\main\java\resources
+2021-04-25 17:35:41,990 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:35:41,991 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\test\resources
+2021-04-25 17:39:31,357 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 17:39:31,358 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:39:31,359 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\main\java\resources
+2021-04-25 17:39:31,362 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:39:31,363 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\test\resources
+2021-04-25 17:43:50,036 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 17:43:50,039 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:43:50,043 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\main\java\resources
+2021-04-25 17:43:50,047 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:43:50,048 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\test\resources
+2021-04-25 17:46:03,834 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 17:46:03,835 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:46:03,836 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\main\java\resources
+2021-04-25 17:46:03,839 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 17:46:03,841 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\test\resources
+2021-04-25 18:12:10,691 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-04-25 18:12:10,694 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 18:12:10,696 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\main\java\resources
+2021-04-25 18:12:10,698 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-25 18:12:10,699 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AnkitPull\src\test\resources
